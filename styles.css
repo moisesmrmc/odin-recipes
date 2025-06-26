@@ -1,0 +1,40 @@
+*{
+    font-family: "Arial", "Helvetica", sans-serif;
+    background:beige;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    float: left;
+    margin-right: 50px;
+}
+body{
+    text-align: center;
+}
+.bar{
+    display: inline;
+}
+.container{
+    text-align: left;
+}
+
+h3{
+    font-weight: bold;
+}
+a{
+    padding: 8px;
+    background: burlywood;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    display: block;
+    margin: 20px;
+}
+ul{
+
+}
+ol{
+    text-align: initial;
+}
